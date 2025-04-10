@@ -1,0 +1,2 @@
+
+    text = text.lower().strip()
